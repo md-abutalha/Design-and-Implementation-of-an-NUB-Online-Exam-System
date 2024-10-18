@@ -1,0 +1,15 @@
+.pen{
+    pointer-events: none;
+}
+
+#pedit{
+    background: #000000c7;display:none;
+}
+
+body:has(.pimg:hover) #pedit,#pedit:hover{
+    display: block;
+}
+
+.xfh{
+    display: none;
+}
