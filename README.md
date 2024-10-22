@@ -3,6 +3,8 @@
 ## Overview
 The **NUB Online Exam System** is a web-based platform designed to facilitate the management and administration of online exams for Northern University Bangladesh (NUB). It offers a secure, scalable, and user-friendly interface for both instructors and students, supporting various question formats and providing automated grading and real-time feedback.
 
+book pdf link: [https://drive.google.com/file/d/1hFEv329AebtLVlpdFeKygY58vT98zCoe/view?usp=drive_link](https://drive.google.com/file/d/1hFEv329AebtLVlpdFeKygY58vT98zCoe/view?usp=drive_link)
+
 ## Features
 - **User Authentication**: Secure login system for students and instructors.
 - **Quiz Management**: Instructors can create, edit, and manage quizzes with different question types.
